@@ -288,25 +288,12 @@ if __name__ == "__main__":
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- 3D CONTRIBUTION GRID -->
-<div align="center">
-
-## 🎯 3D CONTRIBUTION MATRIX
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-</div>
-
-<!-- ADVANCED SNAKE ANIMATION -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
 ## 🐍 CONTRIBUTION NEURAL PATHWAY
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ultron09/Ultron09/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ultron09/Ultron09/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ultron09/Ultron09/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/Ultron09/Ultron09/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -328,7 +315,7 @@ if __name__ == "__main__":
 
 ## 🎖️ DIGITAL BADGES & CERTIFICATIONS
 
-[![An image of @ultron09's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ultron09)](https://holopin.io/@ultron09)
+[![Holopin Badges](https://holopin.me/ultron09)](https://holopin.io/@ultron09)
 
 </div>
 
@@ -361,7 +348,7 @@ if __name__ == "__main__":
 
 ## 📈 ADVANCED SYSTEM METRICS
 
-<img width="100%" src="https://metrics.lecoq.io/Ultron09?template=classic&isocalendar=1&languages=1&lines=1&people=1&activity=1&achievements=1&notable=1&repositories=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" />
+![Metrics](https://metrics.lecoq.io/Ultron09?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
 
 </div>
 
@@ -372,21 +359,23 @@ if __name__ == "__main__":
 
 <div align="center">
 
+<div align="center">
+
 ```ascii
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║     ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗        ║
-║    ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝        ║
-║    ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║           ║
-║    ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║           ║
-║    ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║           ║
-║     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝           ║
-║                                                                            ║
-║  💼 OPEN FOR ELITE COLLABORATIONS                                         ║
-║  🚀 BUILDING THE FUTURE OF ARTIFICIAL INTELLIGENCE                        ║
-║  ⚡ LET'S CREATE SOMETHING EXTRAORDINARY                                  ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║     ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗║
+║    ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝║
+║    ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║   ║
+║    ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║   ║
+║    ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║   ║
+║     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝   ║
+║                                                                   ║
+║           💼 OPEN FOR ELITE COLLABORATIONS                       ║
+║           🚀 BUILDING THE FUTURE OF AI                           ║
+║           ⚡ LET'S CREATE SOMETHING EXTRAORDINARY                ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 ### ⚡ **Crafted with 💜 and Infinite Innovation by [Ultron09](https://github.com/Ultron09)** ⚡
