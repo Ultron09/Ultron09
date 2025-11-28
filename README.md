@@ -45,7 +45,7 @@
 </p>
 
 <!-- ADVANCED CODE INTERFACE -->
-<div align="center">
+<div align="left">
 
 ```python
 #!/usr/bin/env python3
