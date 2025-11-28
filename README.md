@@ -146,7 +146,7 @@ if __name__ == "__main__":
   <tr>
     <td align="center" width="200">
       <a href="https://discord.gg/1043451400379695196">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" width="60" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60" />
         <br><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
       </a>
     </td>
