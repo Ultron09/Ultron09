@@ -386,6 +386,6 @@ if __name__ == "__main__":
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="50" />
 </p>
 
-<img src="https://64.media.tumblr.com/57dee8e3e9010538ff6ea70ddef88b28/tumblr_nnmqbfSw381rgrjk1o1_400.gif" alt="Animated Footer" width="100%"/>
+<img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/batman-blue-glowing-eyes-dark-gif-preview-desktop-wallpaper.gif" alt="Animated Footer" width="100%"/>
 
 </div>
