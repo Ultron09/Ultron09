@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- EPIC HEADER WITH WAVE ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=SURYAANSH%20SINGH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ARCHITECT%20%7C%20NEURAL%20NETWORK%20ENGINEER%20%7C%20SYSTEM%20INNOVATOR%20⚡&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=SURYAANSH%20PRITHVIJIT%20SINGH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ARCHITECT%20%7C%20NEURAL%20NETWORK%20ENGINEER%20%7C%20SYSTEM%20INNOVATOR%20⚡&descSize=18&descAlignY=55"/>
 
 </div>
 
@@ -337,7 +337,7 @@ if __name__ == "__main__":
 
 ## 🎵 CURRENT NEURAL FREQUENCY
 
-[![Spotify](https://novatorem-kyzbk7wxl-barenya.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
+[![Spotify](https://novatorem-kyzbk7wxl-barenya.vercel.app/api/spotify)](https://open.spotify.com/user/31x4xt6b2u6sda2qzva7abjie3ze)
 
 </div>
 
