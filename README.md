@@ -11,7 +11,7 @@
 <!-- RECRUITER QUICK-CONNECT ACTION BAR -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryaansh-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryaansh-prithvijit-singh/)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.singha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ultron09)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/1043451400379695196)
@@ -257,7 +257,7 @@ class SuryaanshProfile:
         self.name = "Suryaansh Prithvijit Singh"
         self.github = "https://github.com/Ultron09"
         self.email = "connect.singha@gmail.com"
-        self.linkedin = "https://linkedin.com/in/suryaansh-singh"
+        self.linkedin = "https://www.linkedin.com/in/suryaansh-prithvijit-singh/"
         
         self.active_research = [
             "ANTARA: Continual Learning & Dual System OGD/RGW Architectures (NeurIPS)",
@@ -317,7 +317,7 @@ if __name__ == "__main__":
   <a href="mailto:connect.singha@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-connect.singha%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/suryaansh-singh">
+  <a href="https://www.linkedin.com/in/suryaansh-prithvijit-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-Suryaansh_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.gg/1043451400379695196">
