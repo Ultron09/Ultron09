@@ -18,28 +18,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
-
-## 🏆 GITHUB ACHIEVEMENTS & DEVELOPER HIGHLIGHTS
-
-<div align="center">
-
-<a href="https://github.com/Ultron09?tab=achievements">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ultron09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</a>
-
-<br/><br/>
-
-| 🦈 Gold Pull Shark | 👯 Gold Pair Extraordinaire | 🧠 Galaxy Brain | ⚡ Quickdraw | 🚀 YOLO | ⚙️ Developer Program |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="75" alt="Pull Shark" /><br/><sub><b>🥇 Gold Tier (130+ PRs)</b></sub> | <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-769493994326.png" width="75" alt="Pair Extraordinaire" /><br/><sub><b>🥇 Gold Tier (Co-Authored)</b></sub> | <img src="https://github.githubassets.com/assets/galaxy-brain-default-3be1f72a6b28.png" width="75" alt="Galaxy Brain" /><br/><sub><b>💎 Diamond (32 Q&As)</b></sub> | <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="75" alt="Quickdraw" /><br/><sub><b>⚡ Multiplier Locked</b></sub> | <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="75" alt="YOLO" /><br/><sub><b>🚀 Fast Merge Unlocked</b></sub> | <img src="https://img.shields.io/badge/GitHub-Developer_Program-00FFA3?style=for-the-badge&logo=github&logoColor=0B1F1C" /><br/><sub><b>Verified Highlight</b></sub> |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ---
 
 ## 🎯 EXECUTIVE SUMMARY & RECRUITER HIGHLIGHTS
