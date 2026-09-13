@@ -28,11 +28,3 @@ Active contributor to core machine learning and open-source infrastructure:
 * **Systems & Languages:** C++, C, Python, TypeScript, CUDA, Linux (Arch / Hyprland), Bash
 * **Machine Learning:** PyTorch, NumPy, JAX / Flax, OpenCV, scikit-learn
 * **Infrastructure & Backend:** Docker, Redis, Next.js, Node.js, PostgreSQL / Supabase
-
----
-
-<div align="center">
-  <a href="https://github.com/Ultron09">
-    <img src="https://streak-stats.demolab.com/?user=Ultron09&theme=tokyonight&hide_border=true&border_radius=8" alt="Suryaansh's GitHub Streak" />
-  </a>
-</div>
