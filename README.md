@@ -25,9 +25,14 @@ Active contributor to core machine learning and open-source infrastructure:
 
 ### 🛠️ Core Stack
 
-* **Systems & Languages:** C++, C, Python, TypeScript, CUDA, Linux (Arch / Hyprland), Bash
-* **Machine Learning:** PyTorch, NumPy, JAX / Flax, OpenCV, scikit-learn
-* **Infrastructure & Backend:** Docker, Redis, Next.js, Node.js, PostgreSQL / Supabase
+* **Systems & Languages:** C++, C, Python, TypeScript, CUDA, Linux, Bash  
+  <a href="https://github.com/Ultron09"><img src="https://skillicons.dev/icons?i=cpp,c,py,ts,bash,linux&theme=dark" alt="Systems and Languages" /></a>
+
+* **Machine Learning:** PyTorch, NumPy, JAX / Flax, OpenCV, Scikit-Learn  
+  <a href="https://github.com/Ultron09"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn&theme=dark" alt="Machine Learning" /></a>
+
+* **Infrastructure & Backend:** Docker, Redis, Next.js, Node.js, PostgreSQL, Supabase  
+  <a href="https://github.com/Ultron09"><img src="https://skillicons.dev/icons?i=docker,redis,nextjs,nodejs,postgres,supabase&theme=dark" alt="Infrastructure and Backend" /></a>
 
 ---
 
