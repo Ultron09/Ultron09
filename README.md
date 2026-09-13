@@ -9,6 +9,12 @@ I build and research deep learning systems from mathematical first principles—
 
 ### 🔬 Selected Research & Architectures
 
+<div align="center">
+  <img src="assets/architectures.gif" width="100%" alt="Neural & Systems Architecture Schematics" />
+</div>
+
+<br/>
+
 * **[ANTARA // NeurIPS Testbed](https://github.com/Ultron09/NeurIPS)** — Evaluation testbed for continual learning under Split CIFAR-100. Implements sequential learning across 10×10 tasks without raw data rehearsal, benchmarking OGD and RGW dual-system architectures against EWC, ER, and A-GEM.
 * **[Numpy-Transformer](https://github.com/Ultron09/Numpy-Transformer)** — Pure NumPy implementation of an autoregressive GPT built from scratch. Features manual backpropagation, multi-head self-attention, and custom Adam optimizer with zero high-level framework dependencies.
 * **[Vision-Transformer-Diffusion](https://github.com/Ultron09/Vision-transformer-diffusion)** — Minimal ViT + DDPM diffusion pipeline built from scratch in NumPy, featuring a simplified ViT-UNet and AdaLN time conditioning.
